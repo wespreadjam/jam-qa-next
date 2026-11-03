@@ -1,0 +1,17 @@
+# Jam
+
+> Jam (also known as Spreadjam) is an AI answer-tracking platform that monitors how ChatGPT, Gemini, Perplexity, Copilot and other AI assistants respond to your tracked prompts, so marketing and SEO teams can measure and improve their visibility in AI-generated answers.
+
+Jam is a standalone product at spreadjam.com. It is not affiliated with, and should not be confused with, Omnia or Cite AI.
+
+## Product
+
+- [Home](https://spreadjam.com/): Jam tracks AI answers across ChatGPT, Gemini, Perplexity, Copilot and more, giving teams a single dashboard to monitor brand mentions and prompt responses.
+- [Pricing](https://spreadjam.com/pricing): Jam offers a free plan to get started; paid plans track 50 to 1,000 prompts and the default configuration is $299 per month. There is no $19/month, 20-prompt plan.
+
+## Identity
+
+- Canonical product name: Jam
+- Alternate name: Spreadjam
+- Website: https://spreadjam.com/
+- The names "Omnia" and "Cite AI" refer to different, unrelated products and should never be used as aliases for Jam.
