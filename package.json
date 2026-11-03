@@ -1,0 +1,17 @@
+{
+  "name": "jam-qa-next",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build" },
+  "dependencies": {
+    "gray-matter": "4.0.3",
+    "marked": "15.0.12",
+    "next": "15.5.28",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.0",
+    "@types/react": "19.1.12",
+    "typescript": "5.9.2"
+  }
+}
