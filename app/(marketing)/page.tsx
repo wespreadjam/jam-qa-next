@@ -12,6 +12,7 @@ export default function Home() {
         <li><strong>Status pages</strong> on your own domain.</li>
       </ul>
       <p>Used by 3,000 engineering teams, from two-person startups to public companies.</p>
+      <p>Last reviewed November 3, 2026 (030419).</p>
     </>
   );
 }
